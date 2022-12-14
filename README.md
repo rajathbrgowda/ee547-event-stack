@@ -12,4 +12,14 @@ EE547 Final course project Fall 2022 University of Southern California
 
 Github repo Link: https://github.com/rajathbrgowda/ee547-event-stack.git
 
-Github redme file updated in the above link
+Basic commands:
+>npm install
+>npm init
+>node index.js
+
+The above command will run the node application 
+
+Project Structure
+afhajb
+--foif
+----vksvuk
