@@ -17,6 +17,8 @@ const Login = require('./model/login')
 var schema = require('./graphql/userScehema');
 
 const app = express()
+app.use('/', express.static(path.join(__dirname, 'dist'))) //Connecting frontend Angular build folder
+
 app.use(bodyParser.json())
 
 const { 
